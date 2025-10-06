@@ -4,7 +4,7 @@ Welcome to my Bioinformatics repository! This repo contains solutions to classic
 
 ---
 
-#🚀 About Me
+# 🚀 About Me
 
 I am a molecular biologist passionate about integrating computational methods with experimental biology. This repository reflects my growing expertise in:
 
